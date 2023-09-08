@@ -12,21 +12,21 @@
 		{
 			"kind": "main",
 			"tag": "com-demo-gauge",
-			"url": "https://github.com/keshika31/Analytics-App/blob/main/gauge.js",
+			"url": "https://github.com/keshika31/newGauge/blob/main/gauge.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "styling",
 			"tag": "com-demo-gauge-sps",
-			"url": "https://github.com/keshika31/Analytics-App/blob/main/gauge_sp.js",
+			"url": "https://github.com/keshika31/newGauge/blob/main/gauge_sp.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		},
 		{
 			"kind": "builder",
 			"tag": "com-demo-box-bps",
-			"url": "https://github.com/keshika31/Analytics-App/blob/main/gauge_bp.js",
+			"url": "https://github.com/keshika31/newGauge/blob/main/gauge_bp.js",
 			"integrity": "",
 			"ignoreIntegrity": true
 		}
